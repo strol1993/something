@@ -1,4 +1,4 @@
-module someGenericModule
+module github.com/strol1993/something
 
 go 1.15
 
